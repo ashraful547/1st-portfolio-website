@@ -1,0 +1,117 @@
+   
+   body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+   }
+   
+   h1{font-family: 'Times New Roman', Times, serif;
+
+        font-size: 40px;
+
+    }
+    h4{
+         color: rgb(0, 0, 0);
+
+    }
+    
+    .name_highlight{
+
+        color:salmon;
+    }
+
+    .half_width{
+        width:40%;
+        float:left;
+        margin-left:4%;
+        padding-left:5%;
+        margin-top: 10px;       
+    }
+
+
+
+     .half_width img{
+         width:60%;
+
+}
+
+
+.top_banner{
+
+background-image: url("images/top-banner.png");
+background-repeat: no-repeat;
+
+
+}
+section{
+    height:500px;
+    padding-top: 150px;
+}
+.link-button{
+    text-decoration:none;
+    background-image:linear-gradient(45deg,blue,rgb(92, 6, 6) );
+    padding:10px 20px;
+    border-radius:5px;
+    color:black;
+    font-weight:700;
+}
+.about_area{
+    background-image: url("images/dream-bg.png");
+    background-repeat:no-repeat;
+    background-position:right;
+}
+#orange_highlight{
+    color: salmon;
+}
+.working_project{
+    color: rgb(173, 173, 194);
+}
+.working-font{
+color: rgba(82, 65, 65, 0.315);
+}
+.latest-project{
+    float: left;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 10px;
+    border: 10px solid rgb(231, 226, 226);
+    height: 300px;
+    margin: 0px;
+    margin-left:250px;
+
+    
+}
+.work-inquiry{
+    background-image: url(shape/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 800px 200px;
+    background-position: center;
+    height: 200px;
+    padding: 10px;
+
+}
+ 
+#bbb{
+    text-align: center;
+}
+    
+    
+    #ccc{
+
+        text-align: center;
+    }
+
+     #aaa{
+         text-align: center;
+     }
+     .header-connect{
+         text-align: center;
+        color:(rgba(82, 65, 65, 0.315);
+
+     }
+     .icon-pic{
+        float: left;
+    
+     }
+     
+     
